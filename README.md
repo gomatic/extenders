@@ -1,6 +1,6 @@
 # extenders
 
-Directory of Go extender extensions
+Directory of Go [extender](//github.com/gomatic/extender) extensions
 
 ## `go build`
 
