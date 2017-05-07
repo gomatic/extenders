@@ -6,10 +6,9 @@ Directory of Go [extender](//github.com/gomatic/extender) extensions
 
 - [gomatic/go-vbuild](//github.com/gomatic/go-vbuild) - adds -ldflags -X variables to go build.
 
-
 ## `go install`
 
-- [gomatic/go-vbuild](//github.com/gomatic/go-vbuild) - adds -ldflags -X variables go install.
+- [gomatic/go-vbuild](//github.com/gomatic/go-vbuild) - adds -ldflags -X variables to go install.
 
 ## `go dep`
 
